@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Faijur1/Leetcode--Solution/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/Faijur1/Leetcode--Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Faijur1/Leetcode--Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Faijur1/Leetcode--Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Faijur1/Leetcode--Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Faijur1/Leetcode--Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Faijur1/Leetcode--Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Faijur1/Leetcode--Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Faijur1/Leetcode--Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Faijur1/Leetcode--Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
