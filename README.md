@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Faijur1/Leetcode--Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Faijur1/Leetcode--Solution/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/Faijur1/Leetcode--Solution/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Faijur1/Leetcode--Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Faijur1/Leetcode--Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Faijur1/Leetcode--Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Faijur1/Leetcode--Solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Faijur1/Leetcode--Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Faijur1/Leetcode--Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1140-stone-game-ii) |
