@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Faijur1/Leetcode--Solution/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/Faijur1/Leetcode--Solution/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Faijur1/Leetcode--Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Faijur1/Leetcode--Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Faijur1/Leetcode--Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Faijur1/Leetcode--Solution/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Faijur1/Leetcode--Solution/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Faijur1/Leetcode--Solution/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Faijur1/Leetcode--Solution/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1096-brace-expansion-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Faijur1/Leetcode--Solution/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Faijur1/Leetcode--Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Faijur1/Leetcode--Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
