@@ -213,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Faijur1/Leetcode--Solution/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Faijur1/Leetcode--Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Faijur1/Leetcode--Solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Faijur1/Leetcode--Solution/tree/master/0199-binary-tree-right-side-view) |
 | [1096-brace-expansion-ii](https://github.com/Faijur1/Leetcode--Solution/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Faijur1/Leetcode--Solution/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Faijur1/Leetcode--Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -322,10 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Faijur1/Leetcode--Solution/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Faijur1/Leetcode--Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Faijur1/Leetcode--Solution/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Faijur1/Leetcode--Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
